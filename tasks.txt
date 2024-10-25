@@ -1,0 +1,20 @@
+A_23628 - HSM-B - Schlüsselerzeugung für Institutionsidentitäten
+CompanyA
+progu
+nameservers
+https://asana.com/some-token-id
+https://gemspec.gematik.de/docs/gemF/gemF_Personalisierung_HSM-B/latest/
+
+B_23633 - HSM-A - Schlüsselerzeugung für Praxis
+CompanyB
+progu
+hsm
+https://asana.com/another-token-id
+https://fachportal.gematik.de/hersteller-anbieter/komponenten-dienste/trust-service-provider-x509-nonqes-smc-b
+
+C_1234 - SGD-HSM-C - Schlüsselerzeugung für Praxis
+CompanyC
+sigu
+cloud
+https://asana.com/another-token-id-man
+https://fachportal.gematik.de/hersteller-anbieter/komponenten-dienste/trust-service-provider-x509-nonqes-smc-b
